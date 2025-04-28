@@ -30,11 +30,7 @@ This project was completed as part of a group assignment to practice front-end d
 - Member 1: [Tony Wabuko] – GitHub: [tonywabuko@gmail.com, tonywabuko]
 - Member 2: [Kush] – email- kuria4115@gmail.com]
 - Member 3: [Faith Kimani] – email- faithkimani415@gmail.com]
-- Member 4: Brian Sangura   
+- Member 4: Brian Sangura   brensangura- Github
 
 ---
 
-## 📂 How to View the Project
-1. Clone the repository:
-```bash
-git clone https://github.com/your-group-name/your-repo-name.git
