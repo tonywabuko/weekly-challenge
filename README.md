@@ -31,6 +31,7 @@ This project was completed as part of a group assignment to practice front-end d
 - Member 2: [Kush] – email- kuria4115@gmail.com]
 - Member 3: [Faith Kimani] – email- faithkimani415@gmail.com]
 - Member 4: Brian Sangura   brensangura- Github
+- Member 5: Tomlee Juma tommlyjumah@gmailcom
 
 ---
 
